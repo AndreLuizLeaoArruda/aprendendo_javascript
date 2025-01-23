@@ -6,5 +6,6 @@
 
 <h2>Descrição</h2><align=justify>
 <p> O arquivo ola.js foi desenvolvido estudando comandos em javascript. </p>
+<p> Estas linhas de comando foram desenvolvidas dentro do Visual Studio Code. </p>
 
 
